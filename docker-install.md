@@ -1,5 +1,15 @@
 # 在windows的虚拟机上安装docker #
 
+在windows上，虚拟机的安装主要有两种方式，
+
+1. 通过win10自带的hyper-v工具安装管理虚拟机
+
+1. 通过安装virtualBox或者VMware安装管理虚拟机
+
+第一种安装方法 见 [这里](./install-VM-on-windows.md)
+
+第二种安装方式如下 ：
+
 **安装前关闭Hyper-V**
 
 1. 下载安装VirtualBox和vagrant
