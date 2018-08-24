@@ -55,6 +55,9 @@
 	    end
 	  end
 	end
+
+[Vagrantfile完整内容](./centos-virtualbox/Vagrantfile)
+
 进入虚拟机
 
 	PS G:\CentOS7> vagrant ssh

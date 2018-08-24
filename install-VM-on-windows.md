@@ -67,6 +67,8 @@ Vagrantfile内容如下
 	end
 
 
+[Vagrantfile完整内容](./centos-hyperv/Vagrantfile)
+
 启动 虚拟机 
 
 	vagrant up  
