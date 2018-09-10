@@ -11,4 +11,4 @@
 ![](./images/xdebug.gif)
 
 ## docker创建PHP多版本 ##
-![](./images/phpversion.gif)
+![](./images/php.gif)
